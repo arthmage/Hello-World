@@ -1,3 +1,3 @@
 # Hello World!
 
-## I like this sentence.
+This is my practice repository.
